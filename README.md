@@ -11,7 +11,11 @@
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5) 
 ![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3) 
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss) 
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)   
+![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
+![python](https://img.shields.io/badge/javascript-black?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=TypeScript)   
+
+
 
 *Backend*  
 ![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs) 
