@@ -1,6 +1,6 @@
 **Hi, There 👋!**
 
->>> 📍 Hamburg, Germany
+> 📍 Hamburg, Germany
 🍰 15 y.o.
 🧪 I've developed some other side projects *(see below)*
 <br><br>
@@ -45,4 +45,4 @@
 </a>  
 <br/><br/>
   
-![](https://komarev.com/ghpvc/?username=Giuliopime&style=flat&color=orange)
+![](https://komarev.com/ghpvc/?username=Ceeq9717&style=flat&color=orange)
