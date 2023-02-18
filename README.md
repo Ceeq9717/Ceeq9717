@@ -22,7 +22,7 @@
 ![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin) 
 ![mongodb](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb) 
 ![openapi](https://img.shields.io/badge/openapi-black?style=flat-square&logo=openapiinitiative)
-![FastAPI](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/fastapi-black?style=flat-square&logo=fastapi)
 
 *Deployment*  
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github) 
